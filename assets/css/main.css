@@ -126,5 +126,6 @@ nav {
 }
 
 nav a {
-  color; #fc0;
+  color: #fc0;
+  text-decoration: none;
 }
