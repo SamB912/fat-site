@@ -120,7 +120,8 @@ table {
   ====================================
 */
 
-nav {
+nav a {
   background-color: #004;
+  color: #fc0;
   padding: 15px;
 }
